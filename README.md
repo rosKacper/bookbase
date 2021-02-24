@@ -1,6 +1,5 @@
 # bookbase
-[**Bookbase**](http://bookbase3-env.eba-tbefkzvk.eu-central-1.elasticbeanstalk.com)
-is a web application created with **Spring Boot** and **Vaadin** framework.
+Web application for rating books created with **Spring Boot** and **Vaadin** framework.
 
 Project was developed by:
 - [Tomasz Kozyra](https://github.com/tkozyra),
