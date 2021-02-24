@@ -1,6 +1,10 @@
 # bookbase
 Web application for rating books created with **Spring Boot** and **Vaadin** framework.
 
+Project was developed by:
+- [Tomasz Kozyra](https://github.com/tkozyra),
+- [Kacper Rosiak](https://github.com/rosKacper),
+- [Wojciech Ankus](https://github.com/vojteq)
 
 
 ## Table of Contents
@@ -14,11 +18,6 @@ Web application for rating books created with **Spring Boot** and **Vaadin** fra
 To gain access to application, you have to log in with given credentials:
 - username: user
 - password: ala123
-
-Project was developed by:
-- [Tomasz Kozyra](https://github.com/tkozyra),
-- [Kacper Rosiak](https://github.com/rosKacper),
-- [Wojciech Ankus](https://github.com/vojteq)
 
 
 In app you can display all authors or books and rate them. Items can be **sorted** and **filtered**:
