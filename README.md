@@ -1,10 +1,6 @@
 # bookbase
-Web application for rating books created with **Spring Boot** and **Vaadin** framework.
+Web application for rating books created with Spring Boot and Vaadin framework.
 
-Project was developed by:
-- [Tomasz Kozyra](https://github.com/tkozyra),
-- [Kacper Rosiak](https://github.com/rosKacper),
-- [Wojciech Ankus](https://github.com/vojteq)
 
 
 ## Table of Contents
@@ -14,6 +10,13 @@ Project was developed by:
 - [Project overview](#project-overview)
 
 ## About project
+
+
+Project was developed by:
+- [Tomasz Kozyra](https://github.com/tkozyra),
+- [Kacper Rosiak](https://github.com/rosKacper),
+- [Wojciech Ankus](https://github.com/vojteq)
+
 
 To gain access to application, you have to log in with given credentials:
 - username: user
